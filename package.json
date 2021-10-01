@@ -1,17 +1,29 @@
 {
-  "name": "handson",
+  "name": "mongovs",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"node src/index.js",
-    "dev":"nodemon src/index.js"
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
-    "nodemon": "^2.0.13",
+    "mongoose": "^5.3.16",
+    "mongose": "0.0.2-security",
+    "nodemod": "^3.0.0",
+    "request": "^2.88.2",
+    "validator": "^13.6.0"
+  },
+  "dependencies": {
+    "express-router": "0.0.1",
+    "hbs": "^4.1.2",
+    "jsonwebtoken": "^8.4.0",
+    "mongod": "^2.0.0",
     "path": "^0.12.7"
-  }
+  },
+  "description": ""
 }
