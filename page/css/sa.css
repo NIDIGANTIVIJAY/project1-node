@@ -1,0 +1,33 @@
+body{
+    background-color: bisque;
+}
+
+
+header {
+    padding-left: 500px;
+    font-size: large;
+    height: 50px;
+    color: brown;
+    
+    
+}
+
+#ps{
+    padding-left: 200px;
+    height: 100px;
+}
+
+footer{
+    padding-left: 100px;
+    position:absolute;
+   bottom:0;
+   
+}
+div{
+    
+    position: relative;
+
+}
+#o{
+    padding-left: 200px;
+}
